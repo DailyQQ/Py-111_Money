@@ -1,0 +1,314 @@
+{
+    "Date": "2022-03-25T11:30:00+03:00",
+    "PreviousDate": "2022-03-24T11:30:00+03:00",
+    "PreviousURL": "//www.cbr-xml-daily.ru/archive/2022/03/24/daily_json.js",
+    "Timestamp": "2022-03-24T23:00:00+03:00",
+    "Valute": {
+        "AMD": {
+            "CharCode": "AMD",
+            "ID": "R01060",
+            "Name": "\u0410\u0440\u043c\u044f\u043d\u0441\u043a\u0438\u0445 \u0434\u0440\u0430\u043c\u043e\u0432",
+            "Nominal": 100,
+            "NumCode": "051",
+            "Previous": 21.0442,
+            "Value": 19.572
+        },
+        "AUD": {
+            "CharCode": "AUD",
+            "ID": "R01010",
+            "Name": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
+            "Nominal": 1,
+            "NumCode": "036",
+            "Previous": 76.9174,
+            "Value": 71.9575
+        },
+        "AZN": {
+            "CharCode": "AZN",
+            "ID": "R01020A",
+            "Name": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u043a\u0438\u0439 \u043c\u0430\u043d\u0430\u0442",
+            "Nominal": 1,
+            "NumCode": "944",
+            "Previous": 60.8337,
+            "Value": 56.6375
+        },
+        "BGN": {
+            "CharCode": "BGN",
+            "ID": "R01100",
+            "Name": "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u043b\u0435\u0432",
+            "Nominal": 1,
+            "NumCode": "975",
+            "Previous": 57.9138,
+            "Value": 53.9371
+        },
+        "BRL": {
+            "CharCode": "BRL",
+            "ID": "R01115",
+            "Name": "\u0411\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0435\u0430\u043b",
+            "Nominal": 1,
+            "NumCode": "986",
+            "Previous": 21.0204,
+            "Value": 19.8947
+        },
+        "BYN": {
+            "CharCode": "BYN",
+            "ID": "R01090B",
+            "Name": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0443\u0431\u043b\u044c",
+            "Nominal": 1,
+            "NumCode": "933",
+            "Previous": 31.6632,
+            "Value": 30.0594
+        },
+        "CAD": {
+            "CharCode": "CAD",
+            "ID": "R01350",
+            "Name": "\u041a\u0430\u043d\u0430\u0434\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
+            "Nominal": 1,
+            "NumCode": "124",
+            "Previous": 81.933,
+            "Value": 76.4452
+        },
+        "CHF": {
+            "CharCode": "CHF",
+            "ID": "R01775",
+            "Name": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u0438\u0439 \u0444\u0440\u0430\u043d\u043a",
+            "Nominal": 1,
+            "NumCode": "756",
+            "Previous": 110.3335,
+            "Value": 103.153
+        },
+        "CNY": {
+            "CharCode": "CNY",
+            "ID": "R01375",
+            "Name": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u044e\u0430\u043d\u044c",
+            "Nominal": 1,
+            "NumCode": "156",
+            "Previous": 16.1891,
+            "Value": 15.0771
+        },
+        "CZK": {
+            "CharCode": "CZK",
+            "ID": "R01760",
+            "Name": "\u0427\u0435\u0448\u0441\u043a\u0438\u0445 \u043a\u0440\u043e\u043d",
+            "Nominal": 10,
+            "NumCode": "203",
+            "Previous": 45.9969,
+            "Value": 42.7024
+        },
+        "DKK": {
+            "CharCode": "DKK",
+            "ID": "R01215",
+            "Name": "\u0414\u0430\u0442\u0441\u043a\u0430\u044f \u043a\u0440\u043e\u043d\u0430",
+            "Nominal": 1,
+            "NumCode": "208",
+            "Previous": 15.2255,
+            "Value": 14.1767
+        },
+        "EUR": {
+            "CharCode": "EUR",
+            "ID": "R01239",
+            "Name": "\u0415\u0432\u0440\u043e",
+            "Nominal": 1,
+            "NumCode": "978",
+            "Previous": 113.2613,
+            "Value": 105.4679
+        },
+        "GBP": {
+            "CharCode": "GBP",
+            "ID": "R01035",
+            "Name": "\u0424\u0443\u043d\u0442 \u0441\u0442\u0435\u0440\u043b\u0438\u043d\u0433\u043e\u0432 \u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0430",
+            "Nominal": 1,
+            "NumCode": "826",
+            "Previous": 136.0395,
+            "Value": 126.694
+        },
+        "HKD": {
+            "CharCode": "HKD",
+            "ID": "R01200",
+            "Name": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
+            "Nominal": 1,
+            "NumCode": "344",
+            "Previous": 13.1855,
+            "Value": 12.2758
+        },
+        "HUF": {
+            "CharCode": "HUF",
+            "ID": "R01135",
+            "Name": "\u0412\u0435\u043d\u0433\u0435\u0440\u0441\u043a\u0438\u0445 \u0444\u043e\u0440\u0438\u043d\u0442\u043e\u0432",
+            "Nominal": 100,
+            "NumCode": "348",
+            "Previous": 30.4308,
+            "Value": 28.1692
+        },
+        "INR": {
+            "CharCode": "INR",
+            "ID": "R01270",
+            "Name": "\u0418\u043d\u0434\u0438\u0439\u0441\u043a\u0438\u0445 \u0440\u0443\u043f\u0438\u0439",
+            "Nominal": 10,
+            "NumCode": "356",
+            "Previous": 13.5199,
+            "Value": 12.576
+        },
+        "JPY": {
+            "CharCode": "JPY",
+            "ID": "R01820",
+            "Name": "\u042f\u043f\u043e\u043d\u0441\u043a\u0438\u0445 \u0438\u0435\u043d",
+            "Nominal": 100,
+            "NumCode": "392",
+            "Previous": 85.4731,
+            "Value": 78.8068
+        },
+        "KGS": {
+            "CharCode": "KGS",
+            "ID": "R01370",
+            "Name": "\u041a\u0438\u0440\u0433\u0438\u0437\u0441\u043a\u0438\u0445 \u0441\u043e\u043c\u043e\u0432",
+            "Nominal": 100,
+            "NumCode": "417",
+            "Previous": 10.1916,
+            "Value": 97.1747
+        },
+        "KRW": {
+            "CharCode": "KRW",
+            "ID": "R01815",
+            "Name": "\u0412\u043e\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u041a\u043e\u0440\u0435\u044f",
+            "Nominal": 1000,
+            "NumCode": "410",
+            "Previous": 84.9838,
+            "Value": 78.8068
+        },
+        "KZT": {
+            "CharCode": "KZT",
+            "ID": "R01335",
+            "Name": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0445 \u0442\u0435\u043d\u0433\u0435",
+            "Nominal": 100,
+            "NumCode": "398",
+            "Previous": 20.3014,
+            "Value": 19.4515
+        },
+        "MDL": {
+            "CharCode": "MDL",
+            "ID": "R01500",
+            "Name": "\u041c\u043e\u043b\u0434\u0430\u0432\u0441\u043a\u0438\u0445 \u043b\u0435\u0435\u0432",
+            "Nominal": 10,
+            "NumCode": "498",
+            "Previous": 56.0814,
+            "Value": 52.2815
+        },
+        "NOK": {
+            "CharCode": "NOK",
+            "ID": "R01535",
+            "Name": "\u041d\u043e\u0440\u0432\u0435\u0436\u0441\u043a\u0430\u044f \u043a\u0440\u043e\u043d\u0430",
+            "Nominal": 1,
+            "NumCode": "578",
+            "Previous": 11.7561,
+            "Value": 11.1117
+        },
+        "PLN": {
+            "CharCode": "PLN",
+            "ID": "R01565",
+            "Name": "\u041f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0437\u043b\u043e\u0442\u044b\u0439",
+            "Nominal": 1,
+            "NumCode": "985",
+            "Previous": 24.0515,
+            "Value": 22.2782
+        },
+        "RON": {
+            "CharCode": "RON",
+            "ID": "R01585F",
+            "Name": "\u0420\u0443\u043c\u044b\u043d\u0441\u043a\u0438\u0439 \u043b\u0435\u0439",
+            "Nominal": 1,
+            "NumCode": "946",
+            "Previous": 22.8913,
+            "Value": 21.3123
+        },
+        "SEK": {
+            "CharCode": "SEK",
+            "ID": "R01770",
+            "Name": "\u0428\u0432\u0435\u0434\u0441\u043a\u0430\u044f \u043a\u0440\u043e\u043d\u0430",
+            "Nominal": 1,
+            "NumCode": "752",
+            "Previous": 10.8917,
+            "Value": 10.1959
+        },
+        "SGD": {
+            "CharCode": "SGD",
+            "ID": "R01625",
+            "Name": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
+            "Nominal": 1,
+            "NumCode": "702",
+            "Previous": 75.9604,
+            "Value": 70.7207
+        },
+        "TJS": {
+            "CharCode": "TJS",
+            "ID": "R01670",
+            "Name": "\u0422\u0430\u0434\u0436\u0438\u043a\u0441\u043a\u0438\u0445 \u0441\u043e\u043c\u043e\u043d\u0438",
+            "Nominal": 10,
+            "NumCode": "972",
+            "Previous": 85.233,
+            "Value": 79.3537
+        },
+        "TMT": {
+            "CharCode": "TMT",
+            "ID": "R01710A",
+            "Name": "\u041d\u043e\u0432\u044b\u0439 \u0442\u0443\u0440\u043a\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u043c\u0430\u043d\u0430\u0442",
+            "Nominal": 1,
+            "NumCode": "934",
+            "Previous": 29.4748,
+            "Value": 27.4417
+        },
+        "TRY": {
+            "CharCode": "TRY",
+            "ID": "R01700J",
+            "Name": "\u0422\u0443\u0440\u0435\u0446\u043a\u0438\u0445 \u043b\u0438\u0440",
+            "Nominal": 10,
+            "NumCode": "949",
+            "Previous": 69.4912,
+            "Value": 64.7257
+        },
+        "UAH": {
+            "CharCode": "UAH",
+            "ID": "R01720",
+            "Name": "\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0445 \u0433\u0440\u0438\u0432\u0435\u043d",
+            "Nominal": 10,
+            "NumCode": "980",
+            "Previous": 34.857,
+            "Value": 32.6684
+        },
+        "USD": {
+            "CharCode": "USD",
+            "ID": "R01235",
+            "Name": "\u0414\u043e\u043b\u043b\u0430\u0440 \u0421\u0428\u0410",
+            "Nominal": 1,
+            "NumCode": "840",
+            "Previous": 103.1618,
+            "Value": 96.0458
+        },
+        "UZS": {
+            "CharCode": "UZS",
+            "ID": "R01717",
+            "Name": "\u0423\u0437\u0431\u0435\u043a\u0441\u043a\u0438\u0445 \u0441\u0443\u043c\u043e\u0432",
+            "Nominal": 10000,
+            "NumCode": "860",
+            "Previous": 89.4243,
+            "Value": 83.391
+        },
+        "XDR": {
+            "CharCode": "XDR",
+            "ID": "R01589",
+            "Name": "\u0421\u0414\u0420 (\u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0430\u0432\u0430 \u0437\u0430\u0438\u043c\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f)",
+            "Nominal": 1,
+            "NumCode": "960",
+            "Previous": 142.2137,
+            "Value": 132.4039
+        },
+        "ZAR": {
+            "CharCode": "ZAR",
+            "ID": "R01810",
+            "Name": "\u042e\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u0440\u044d\u043d\u0434\u043e\u0432",
+            "Nominal": 10,
+            "NumCode": "710",
+            "Previous": 69.7002,
+            "Value": 65.6015
+        }
+    }
+}
